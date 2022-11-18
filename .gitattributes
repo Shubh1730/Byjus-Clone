@@ -14,10 +14,10 @@
         #parent {
             height: 750px;
             width: 1500px;
-            /* border: 1px solid; */
+     
             display: flex;
             flex-direction: column;
-            /* opacity: 0.9; */
+           
         }
 
         #child1 {
@@ -48,7 +48,7 @@
         #l2 {
             height: 40px;
             width: 100px;
-            /* border: 1px solid; */
+            
             margin-left: 250px;
             margin-top: 20px;
             text-align: center;
@@ -65,8 +65,7 @@
         #l3 {
             height: 40px;
             width: 130px;
-            /* border: 1px solid; */
-            /* margin-left: 250px; */
+          
             margin-top: 20px;
             text-align: center;
             text-decoration: none;
@@ -77,8 +76,6 @@
         #l4 {
             height: 40px;
             width: 90px;
-            /* border: 1px solid; */
-            /* margin-left: 250px; */
             margin-top: 20px;
             text-align: center;
             text-decoration: none;
@@ -89,8 +86,7 @@
         #l5 {
             height: 40px;
             width: 150px;
-            /* border: 1px solid; */
-            /* margin-left: 250px; */
+           
             margin-top: 20px;
             text-align: center;
             text-decoration: none;
@@ -101,8 +97,7 @@
         #l6 {
             height: 50px;
             width: 210px;
-            /* border: 1px solid; */
-            /* margin-left: 250px; */
+          
             margin-top: 15px;
             text-align: center;
             text-decoration: none;
@@ -117,7 +112,7 @@
         #m1 {
             height: 100%;
             width: 50%;
-            /* border: 1px solid; */
+          
             background-color: rgb(78, 5, 78);
 
         }
@@ -134,7 +129,7 @@
         #m11 {
             height: 550px;
             width: 650px;
-            /* border: 1px solid; */
+ 
             margin: 0 auto;
             margin-top: 20px;
             background-image: url(./byjus-classes-tutor-img.png);
@@ -145,7 +140,7 @@
         #word {
             height: 120px;
             width: 400px;
-            /* border: 1px solid; */
+           
             margin: 0 auto;
             margin-top: 40px;
 
@@ -174,7 +169,7 @@
         #word1 {
             height: 450px;
             width: 400px;
-            /* border: 1px solid; */
+ 
             margin: auto;
             border-radius: 20px;
             text-align: center;
@@ -184,7 +179,7 @@
         #shu {
             height: 50px;
             width: 300px;
-            /* border: 1px solid; */
+           
             margin: auto;
             margin-top: 7px;
             font-family: sans-serif;
@@ -193,9 +188,9 @@
         #shu1 {
             height: 20px;
             width: 300px;
-            /* border: 1px solid; */
+            
             margin: 0 auto;
-            /* margin-top: 7px; */
+          
             color: grey;
             font-family: sans-serif;
         }
@@ -203,17 +198,17 @@
         #shu2 {
             height: 20px;
             width: 300px;
-            /* border: 1px solid; */
+           
             margin: 0 auto;
-            /* margin-top: 7px; */
-            /* color:blue; */
+           
+            
             font-family: sans-serif;
         }
 
         #shu3 {
             height: 20px;
             width: 300px;
-            /* border: 1px solid; */
+         
             font-size: large;
             font-family: Impact, Haettenschweiler, 'Arial Narrow ', sans-serif;
             color: rgb(41, 40, 40);
@@ -222,7 +217,7 @@
         #form {
             height: 280px;
             width: 300px;
-            /* border: 1px solid; */
+            
             margin-top: 10px;
             text-align: start;
         }
@@ -231,7 +226,7 @@
 
             margin-top: 10px;
             font-size: larger;
-            /* border: 1px solid; */
+        
             text-align: center;
             height: 35px;
             padding-top: 5px;
